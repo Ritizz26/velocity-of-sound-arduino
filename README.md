@@ -19,9 +19,7 @@ Main Concept
 
 The experimental speed is calculated using:
 
-v=
-t
-2d
+v=2d/t
 	​
 
 
@@ -29,8 +27,8 @@ where d is the distance between the sensor and reflecting surface and t is the r
 
 Results
 
-Average experimental temperature: [XX] °C
-Experimental speed: [XX] m/s
-Calculated speed at STP: [XX] m/s
+Average experimental temperature: 26.98 °C
+Experimental speed: 340.96 m/s
+Calculated speed at STP: 323.65 m/s
 Accepted value: 331.1 m/s
-Percentage error: [XX] %
+Percentage error: 2.24 %
