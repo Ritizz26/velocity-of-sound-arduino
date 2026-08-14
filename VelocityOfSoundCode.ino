@@ -3,7 +3,6 @@
 DHT dht(4,DHT11);
 LiquidCrystal_I2C lcd(0x27,16,2);
 void setup() {
-  // put your setup code here, to run once:
   lcd.init();
   lcd.backlight();
   dht.begin();
@@ -12,7 +11,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   //DHT11
   float t= dht.readTemperature();
 
